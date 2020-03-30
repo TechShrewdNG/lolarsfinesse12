@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+unbouncepages.com	TRUE	/lolarsfinesse/	FALSE	1999999999	ubpv	a%2C6701b84f-27c4-42a5-a0b1-cb2be865e9dc
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvs	197.210.227.581585809051407369
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvt	197.210.227.581585809051407369
+
